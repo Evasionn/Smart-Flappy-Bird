@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Using JS neural network library and a genetic algorithm to train an agent to play Flappy Bird.
+
+![](readme.gif)
+
+
 
 ## Available Scripts
 
